@@ -1,4 +1,20 @@
 # SalesAnalysisProject
+***
+
+
+
+
+
+
+
+![SalesAnalysis](images/image.PNG)
+
+
+
+
+
+
+
 
  ***
 ### Contents
